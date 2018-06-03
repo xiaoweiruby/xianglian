@@ -1,7 +1,11 @@
 
 # 相链: 作者 江谨妤
 
-## 视频地址演示：
+## 一、幻灯片展示
+
+![image](https://ws1.sinaimg.cn/large/006tNc79ly1frxzzybdd5j31kw0w5grz.jpg)
+
+## 二、视频地址演示：
 
 相链（英文版）
 
@@ -11,6 +15,7 @@
 
 视频展示：https://v.qq.com/x/page/p0675bvzlvr.html
 
+## 三、产品详情
 
 ## 首页：
 ![image](https://ws3.sinaimg.cn/large/006tNc79ly1frxycvgoanj30af0ijah7.jpg)
@@ -42,8 +47,9 @@
 ## 9 约会轨迹：
 ![image](https://ws3.sinaimg.cn/large/006tNc79ly1frxycsnjtsj30af0ijwga.jpg)
 
+## 五、原型介绍
 
-## 中文介绍
+## （一）中文介绍
 
 让我们一起来看一下 Deom
 在登陆之后能看到有一些推送的推荐人选
@@ -65,7 +71,7 @@
 通过这样的一个成就页面，和下一个邀约
 可以看到整个的成就路径
 
-##  Project Introduction
+##  （二）Project Introduction
 
 Let's take a look at the demo.
 After logging in.
@@ -84,3 +90,9 @@ you can get a date display that shows date information, also synchronize locatio
 when finished and confirmed the date, we can see a page of entire path of achievement,
 
 you might unblock another task for more dates.
+
+## 六、团队展示
+
+![image](https://ws1.sinaimg.cn/large/006tNc79ly1fry0b95krej30yo0tzjv7.jpg)
+
+陈宇龙、江谨妤、肖威、逸鹤
