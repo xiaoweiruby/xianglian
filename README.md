@@ -3,6 +3,15 @@
 
 ## 视频地址演示：
 
+相链（英文版）
+
+视频展示：https://v.qq.com/x/page/f0675bvb3fq.html
+
+相链（中文版）
+
+视频展示：https://v.qq.com/x/page/p0675bvzlvr.html
+
+
 ## 首页：
 ![image](https://ws3.sinaimg.cn/large/006tNc79ly1frxycvgoanj30af0ijah7.jpg)
 
